@@ -1,0 +1,174 @@
+#full-body-cover {
+    font-family: 'Sophisto EGauge' !important;
+    background: aliceblue;
+}
+
+.img1 {
+    height: 500px;
+    width: 100%;
+    padding: 0px;
+    border: 2px solid black;
+    background-image: url(bgimg.webp);
+}
+
+.thought-on-img1 {
+    text-align: center;
+    width: 100%;
+    height: 225px;
+}
+
+.thought-on-img1 button {
+    background-color: red;
+    font-size: 30px;
+    width: 10%;
+    height: auto;
+    text-align: center;
+    border-radius: 10px;
+    border-bottom: 2px solid black;
+}
+
+.thought-on-img1 p {
+    color: red;
+    font-size: 75px;
+    font-family: fantasy;
+    width: 100%;
+    height: 102px;
+}
+
+#logo a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-family: serif;
+    font-size: 45px;
+    margin: 1px 200px 0px 30px;
+
+}
+
+a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-family: serif;
+}
+
+
+
+#info {
+    width: 100%;
+    background-color: black;
+    color: white;
+    margin-top: 2px;
+    text-align: center;
+    font-family: inherit;
+    font-size: 20px
+}
+
+#info p {
+    margin: 20px;
+}
+
+#btn {
+    text-align: center;
+    font-size: 30px;
+    opacity: 1;
+}
+
+.nav-link:hover {
+    background: beige;
+}
+
+#btn-donation-type {
+    text-align: center;
+    font-size: 30px;
+    opacity: 1;
+    background-color: rgb(205, 66, 54);
+    padding: 2px;
+    border-radius: 20px;
+    font-family: inherit;
+    border: 3px solid rgb(0, 0, 0);
+}
+
+.connect {
+    text-align: center;
+    margin-top: 7px;
+    font-size: 30px;
+}
+
+#charity {
+    text-align: center;
+    margin-top: 5px;
+}
+
+
+.contact {
+    color: black;
+    border: 2px solid black;
+    padding: 30px;
+    margin: 10px 400px;
+    background-color: beige;
+    border-radius: 5px;
+    height: 370px;
+
+}
+
+.quote {
+    color: rgb(255, 252, 252);
+    font-family: inherit;
+    border: 1px solid black;
+    margin: 15px 200px;
+    padding: 30px;
+    border-radius: 10px;
+    background-image: url(gaza5.jpg);
+    image-orientation: flip;
+    height: 577px;
+}
+
+.mid-slogan {
+    margin: 8px 305px;
+    text-align: justify;
+}
+
+.mid-slogan p {
+    font-size: 26px;
+    margin-top: -18px;
+    font-family: cursive;
+    padding: 14px;
+}
+
+.donation-modal {
+    background-color: #3db159;
+    ;
+    color: azure;
+    font-family: Roboto-Regular-webfont, Arial, sans-serif;
+    margin: auto;
+    width: 65%;
+    border: 1px solid black;
+    border-radius: 30px;
+    margin-bottom: 20px;
+}
+
+#modal1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+/* #modal1 h3{
+    text-align: center;
+} */
+
+#contact-info {
+    background: #d1f6ff;
+    font-family: math;
+    backdrop-filter: none;
+    cursor: crosshair;
+    border: 1px solid black;
+}
+
+#form-contact {
+    margin: 5px 500px;
+    padding: 10px;
+    background: #e8fdff;
+    color: black;
+    border-radius: 18px;
+    border-top: 2px solid black;
+    font-size: 25px;
+}
